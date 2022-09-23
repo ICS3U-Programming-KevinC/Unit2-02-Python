@@ -18,7 +18,7 @@ def main():
     print(f"{int(length)*int(width)}units²")
     print("")
     print("and its perimeter should be:")
-    print(f"{2*(int(length)+int(width))}cm")
+    print(f"{2*(int(length)+int(width))}units")
 
 
 if __name__ == "__main__":
